@@ -1,16 +1,38 @@
-# facebook_task
+# 📘 Facebook UI Task – Flutter
 
-A new Flutter project.
+**facebook_task** is a Flutter-based UI challenge that replicates the layout and design of Facebook’s main feed and components.  
+It focuses on creating a responsive, scrollable user interface with reusable widgets, perfect for practicing Flutter UI skills.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧱 Rebuild of Facebook main feed layout
+- 👤 User stories section with horizontal scroll
+- 📸 Post cards with images, likes, and comments
+- 🔄 Scrollable feed using ListView
+- 🎨 Fully responsive design for all screen sizes
+- 🌙 Dark mode support (if implemented)
+- 🔤 Structured and clean UI components
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Tech Stack
+
+| Layer            | Technology                  |
+|------------------|------------------------------|
+| Language         | Dart                         |
+| Framework        | Flutter                      |
+| State Management | setState / Provider (if used)|
+| UI Components    | Material Design              |
+| Tools            | Git, GitHub, Android Studio  |
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+
+- Flutter SDK
+- Android Studio or VS Code
+
